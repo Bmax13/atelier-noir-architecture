@@ -1,2 +1,5 @@
-# atelier-noir-architecture
-Minimalist architecture studio website built with HTML, Tailwind CSS and JavaScript.
+# Atelier Noir
+
+Luxury architecture studio
+
+Stack: HTML5, Tailwind CSS, Vanilla JavaScript.
