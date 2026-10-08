@@ -12,7 +12,7 @@ A minimalist and elegant website concept for a modern architecture studio.
 
 ## Live Demo
 
-[View Live Demo](https://USERNAME.github.io/atelier-noir-architecture/)
+[View Live Demo](https://Bmax13.github.io/atelier-noir-architecture/)
 
 ## About the Project
 
